@@ -39,7 +39,7 @@ const CONFIG = {
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
     {
-      name: '投資和投機',
+      name: '投資｜投機',
       menus: [
         {
           title: 'Tangly的学习笔记',
@@ -52,7 +52,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '宗教和歷史',
+      name: '宗教｜歷史',
       menus: [
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
@@ -74,7 +74,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '支持',
+      name: '思考｜旅途',
       menus: [
         {
           title: '站长社群',
