@@ -52,7 +52,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '开发者',
+      name: '宗教和歷史',
       menus: [
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
