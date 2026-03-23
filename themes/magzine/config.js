@@ -96,7 +96,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '解决方案',
+      name: '回憶｜喜歡',
       menus: [
         { title: '建站工具', href: 'https://www.tangly1024.com/' },
         { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
