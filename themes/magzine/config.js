@@ -39,7 +39,7 @@ const CONFIG = {
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
     {
-      name: '友情链接',
+      name: '投資和投機',
       menus: [
         {
           title: 'Tangly的学习笔记',
