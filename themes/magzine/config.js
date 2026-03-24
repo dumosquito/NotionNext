@@ -52,7 +52,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '宗教｜歷史',
+      name: '美味｜旅途',
       menus: [
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
@@ -74,7 +74,7 @@ const CONFIG = {
       ]
     },
     {
-      name: '思考｜旅途',
+      name: '宗教｜歷史',
       menus: [
         {
           title: '站长社群',
@@ -98,8 +98,9 @@ const CONFIG = {
     {
       name: '回憶｜喜歡',
       menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: '映像記憶', href: 'https://www.*****.com/' },
+        { title: '影視音樂', href: 'https://****.tangly1024.com/about' }
+        { title: '個人喜歡', href: 'https://****.tangly1024.com/about' }
       ]
     }
   ],
