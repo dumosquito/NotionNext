@@ -47,7 +47,7 @@ const CONFIG = {
         },
         {
           title: 'multicharts64',
-          href: 'https://www.tangly1024.com'
+          href: 'https://**www.tangly1024.com'
         }
       ]
     },
@@ -99,7 +99,7 @@ const CONFIG = {
       name: '回憶｜喜歡',
       menus: [
         { title: '映像記憶', href: 'https://www.*****.com/' },
-        { title: '影視音樂', href: 'https://****.tangly1024.com/about' }
+        { title: '影視音樂', href: 'https://****.tangly1024.com/about' },
         { title: '個人喜歡', href: 'https://****.tangly1024.com/about' }
       ]
     }
