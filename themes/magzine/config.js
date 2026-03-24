@@ -42,11 +42,11 @@ const CONFIG = {
       name: '投資｜投機',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: 'tradingview',
+          href: 'https://tradingview.tangly1024.com'
         },
         {
-          title: 'NotionNext',
+          title: 'multicharts64',
           href: 'https://www.tangly1024.com'
         }
       ]
@@ -57,19 +57,19 @@ const CONFIG = {
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
           title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+          href: 'https://docs>>>.tangly1024.com/article/how-to-develop-with-notion-next'
         },
         {
           title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+          href: 'https://<<<github.com/tangly1024/NotionNext/issues/new/choose'
         },
         {
           title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
+          href: 'https://***github.com/tangly1024/NotionNext/discussions'
         },
         {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
+          title: '关于DuYaSo',
+          href: 'https://*****.tangly1024.com/about'
         }
       ]
     },
